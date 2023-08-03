@@ -45,8 +45,6 @@ There were a total of 3 deliveries over 4 months, following this schedule:
     - Delete
     - Insert into
     - Update
-    - Create table
-    - Select
 3. Delivery
     - Create tree
     - Select where tree
