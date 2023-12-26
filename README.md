@@ -1,4 +1,4 @@
-# (SCC0215) File Organization (Organização de Arquivos) - Final Project
+# (SCC0215) File Organization - Final Project
 
 ### Developers 
 * Gustavo Gabriel Ribeiro
@@ -15,7 +15,6 @@
 ### Introduction
 
 This project focuses on the manipulation of binary files in secondary memory. The entire program is implemented in C, without the use of any external libraries other than the standard C libraries, and with minimal use of the GNU Makefile tool. All code presented here was written exclusively by the duo. The development period of this project took place during the entire first semester of 2023.
-
 
 ### Objectives
 
